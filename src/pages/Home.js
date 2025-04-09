@@ -5,9 +5,10 @@ function Home() {
   return (
     <div className="App">
       <header>
-        <div className="logo">PB.</div>
+        <div className="logo">RP.</div>
         <nav>
           <a href="#about">About</a>
+          <a href="#projects">Education</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
         </nav>
@@ -16,7 +17,7 @@ function Home() {
       <main>
         <div className="hero">
           <h1>
-            Hello, I'm <span className="highlight">Patryk.</span>
+            Hello, I'm <span className="highlight">Riti Patel.</span>
           </h1>
           <p>I'm a full stack developer.</p>
           <a href="#projects" className="btn">
